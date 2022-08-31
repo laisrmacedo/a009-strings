@@ -10,5 +10,8 @@ console.log(novaFrase)
 console.log(novaFrase.includes("verde"))
 console.log(novaFrase.includes("laranja"))
 
+//Extra
+console.log(frase.replace("mas não deixe o gato sair", "MAS NÃO DEIXE O GATO SAIR"))
+
 
 
